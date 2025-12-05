@@ -56,8 +56,10 @@ Identifies the user with:
 - Contributions, issues and suggestions are welcome!
 - Feel free to open a pull request to improve the project.
 
+---
+
 ### 🙌 Credits & Acknowledgements
 - Dataset Source: The Instagram follower data used in this project was originally collected by CWH (Code With Harry).
 - All credit for the dataset goes to them—this project only focuses on parsing, analyzing and visualizing that data.
 
-
+---
